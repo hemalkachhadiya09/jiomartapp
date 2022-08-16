@@ -1,0 +1,28 @@
+.data{
+    
+    height:880;
+    width:90%;
+    margin-left:5%;
+    
+}
+.data1
+{
+    
+    height:220px;
+    width:22%;
+    float:left;
+    margin-left:2%;
+    padding:1%;
+    margin-top: 2%;
+}
+.data1 >img{
+    height:215px;
+    width:100%;
+    
+    
+
+}
+.data1:hover{
+    transform:scale(1.1)
+
+}

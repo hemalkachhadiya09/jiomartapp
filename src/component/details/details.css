@@ -1,0 +1,94 @@
+#demain{
+    height:544px;
+    width:96%;
+    margin-left:2%;
+    margin-top:3%;
+    margin-bottom:-7%
+    
+}
+#subdemain1 {
+    height: 392px;
+    width: 30%;
+    border: 10px groove gray;
+    float: left;
+    margin-left: 10%;
+    margin-top: 1%;
+    /* background-image: url(images/Nike-TShirt.jpg); */
+    background-repeat: no-repeat;
+    background-size: 100% 392px;
+}
+#subdemain3 {
+    height: 392px;
+    width: 30%;
+    border: 10px groove gray;
+    float: left;
+    margin-left: 10%;
+    margin-top: 1%;
+    /* background-image: url(images/Nike-01.jpg); */
+    background-repeat: no-repeat;
+    background-size: 100% 392px;
+}
+#subdemain4 {
+    height: 392px;
+    width: 30%;
+    border: 10px groove gray;
+    float: left;
+    margin-left: 10%;
+    margin-top: 1%;
+    /* background-image: url(images/Nike-02.jpg); */
+    background-repeat: no-repeat;
+    background-size: 100% 392px;
+}
+#subdemain2{
+    height:433px;
+    width:48%;
+    
+    float:left;
+    margin-left:2%;
+    margin-top:-1%;
+}
+.checked{
+    color:orange;
+}
+#feature{
+    display:inline-block;
+}
+#subfeature{
+    float:left;
+}
+.f1{
+    height:100px;
+    width:73%;
+}
+#a1{
+    color:green
+}
+#a2{
+    color:red
+}
+.b1{
+    
+    margin-left:25%;
+    font-size:20px;
+    border:1px;
+    border-radius: 3px;
+
+}
+.b1:hover{
+    transform:scale(1.1)
+}
+.b2{
+    
+    margin-left:5%;
+    font-size:20px;
+    border:1px;
+    border-radius: 3px;
+
+}
+.b2:hover{
+    transform:scale(1.1)
+}
+.reat{
+    height: 380px;
+    width: 100%;
+}
